@@ -3,6 +3,6 @@ The user will input information about each employee. Once the user has finished 
 
 The team profile generator can be found here: https://drive.google.com/file/d/1ZcsNd7dEczT2LavME-QqCkZeWnsq7e5R/view
 
-An example of the team profile generator being used can be found here:
+An example of the team profile generator being used can be found here: https://mattflug.github.io/team-profile-generator/
 
 ![alt text](./library/team-prof-gen.png)
